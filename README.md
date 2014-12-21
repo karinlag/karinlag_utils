@@ -7,7 +7,7 @@ Contents:
 
 ###same_mid_quantitate.py
 
-##Purpose: detect,trim and quantify MID tags in both ends of 454 sequences.
+####Purpose: detect,trim and quantify MID tags in both ends of 454 sequences.
 
 ```
 Options:
